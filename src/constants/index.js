@@ -192,7 +192,7 @@ const projects = [
     source_code_link: "https://bakhtawr.github.io/portfolio_react/",
   },
   {
-    name: "Job IT",
+    name: "Gym Exercise",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/Bakhtawr",
+    source_code_link: "https://bakhtawr.github.io/gym_exercises/",
   },
   {
     name: "Trip Guide",
