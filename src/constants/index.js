@@ -192,6 +192,27 @@ const projects = [
     source_code_link: "https://bakhtawr.github.io/portfolio_react/",
   },
   {
+    name: "Movie Land",
+    description:
+      "Search movies online with Movies Anywhere. Stream movies from Disney, Fox, Sony, Universal, and Warner Bros. ",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://bakhtawr.github.io/movieland/",
+  },
+  {
     name: "Gym Exercise",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
@@ -212,27 +233,7 @@ const projects = [
     image: jobit,
     source_code_link: "https://bakhtawr.github.io/gym_exercises/",
   },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/Bakhtawr",
-  },
+ 
 ];
 
 export { services, technologies, experiences, testimonials, projects };
