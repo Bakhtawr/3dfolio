@@ -189,6 +189,27 @@ const projects = [
     source_code_link: "https://bakhtawr.github.io/portfolio_react/",
   },
   {
+    name: "Cars Hub",
+    description:
+      "Search movies online. Streamline your car rental experience with our effortless booking process.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: '/3dfolio/src/assets/hub.png',
+    source_code_link: "https://cars-zone-d1lx9wus6-bakhtawars-projects.vercel.app",
+  },
+  {
     name: "Movie Land",
     description:
       "Search movies online with Movies Anywhere. Stream movies from Disney, Fox, Sony, Universal, and Warner Bros. ",
