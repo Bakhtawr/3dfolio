@@ -206,7 +206,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: '/3dfolio/src/assets/hub.png',
+    image: 'https://t4.ftcdn.net/jpg/01/46/89/33/240_F_146893339_W7gl4KxGZkDlaac8f64FpFLRSeyWmzt9.jpg',
     source_code_link: "https://cars-zone-d1lx9wus6-bakhtawars-projects.vercel.app",
   },
   {
