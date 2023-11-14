@@ -231,9 +231,30 @@ const projects = [
     source_code_link: "https://bakhtawr.github.io/movieland/",
   },
   {
+    name: "3DFolio Youtube",
+    description:
+      "You can watch and like videos and subscribe to channels with a Google Account. But without a YouTube channel, you have no public presence on YouTube",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://i.ibb.co/B2MFrVf/localhost-3000-YOUTUBE3-DFOLIO.png',
+    source_code_link: "https://bakhtawr.github.io/project_youtube_clone-main/",
+  },
+  {
     name: "Gym Exercise",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Gym World Push harder than yesterday if you want a different tomorrow.” – Vincent Williams Sr. “The real workout starts when you want to stop",
     tags: [
       {
         name: "react",
@@ -250,6 +271,27 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://bakhtawr.github.io/gym_exercises/",
+  },
+  {
+    name: "Sound Star Music",
+    description:
+      "Doubt yourself and you doubt everything you see. Judge yourself and you see judges everywhere. But if you listen to the sound of your own voice, you can rise",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://i.ibb.co/1967RxN/localhost-3001-Sound-Cloud-Web.png',
+    source_code_link: "https://github.com/Bakhtawr/musicweb",
   },
  
 ];
