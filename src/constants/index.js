@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  
 } from "../assets";
 
 export const navLinks = [
@@ -208,6 +209,27 @@ const projects = [
     ],
     image: 'https://t4.ftcdn.net/jpg/01/46/89/33/240_F_146893339_W7gl4KxGZkDlaac8f64FpFLRSeyWmzt9.jpg',
     source_code_link: "https://cars-zone-d1lx9wus6-bakhtawars-projects.vercel.app",
+  },
+  {
+    name: "Food Kitchen",
+    description:
+      "One of the greatest things about the kitchen is that it holds its power regardless of its size. You can have the biggest, most luxurious kitchen",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://i.postimg.cc/g0rRmQYg/bakhtawr-github-io-React-App.png',
+    source_code_link: "https://bakhtawr.github.io/kitchenfoods/",
   },
   {
     name: "Movie Land",
